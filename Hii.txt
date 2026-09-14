@@ -1,1 +1,1 @@
-Hi, Hola, Bonjour, Hallo.
+Hi, Hola, Bonjour, Hallo. Aujourd'hui on va practiquer Git Oui.
